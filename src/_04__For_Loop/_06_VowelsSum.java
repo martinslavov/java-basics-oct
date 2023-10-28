@@ -1,4 +1,4 @@
-package _04__For.Loop;
+package _04__For_Loop;
 import java.util.Scanner;
 
 public class _06_VowelsSum {

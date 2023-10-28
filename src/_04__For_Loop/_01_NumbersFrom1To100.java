@@ -1,4 +1,4 @@
-package _04__For.Loop;
+package _04__For_Loop;
 
 public class _01_NumbersFrom1To100 {
 
