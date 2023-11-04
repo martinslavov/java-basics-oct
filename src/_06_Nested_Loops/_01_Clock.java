@@ -1,4 +1,4 @@
-package _06_Nested.Loops;
+package _06_Nested_Loops;
 
 public class _01_Clock {
 
